@@ -1,0 +1,26 @@
+/* CSS Document */
+.cabecera {
+	background-color:#333; 
+	height:108px; 
+}
+
+nav {
+	height:80px;
+	margin-top:-90px;
+	text-align:center;	
+}
+
+.slider {
+	background-image: url("../images/fondoplayer.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top:10px;
+	text-align: center;
+	
+}
+.main {
+	width:95%; 
+	height:500px;
+	max-width:1600px;
+	margin: 0px auto 0px auto;
+}
